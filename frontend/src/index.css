@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.abc{
+    width: 80%;
+    margin-top: 5px;
+  
+}
+/* 
+.navbar{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1qqVoRjkrXgqk3aO7CdemqZd75eIfNg9vwgfIBwyTw&s');
+} */
